@@ -65,7 +65,9 @@ Confirm with Log Expense
 This app blends:
 
 💸 Financial tracking
+
 👨‍👩‍👧‍👦 Social collaboration
+
 📱 Clean mobile-first UI
 
 Unlike traditional budgeting apps, Shared Treasure Box emphasizes shared accountability and communication through its social ledger system.
