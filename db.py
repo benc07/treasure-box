@@ -23,7 +23,7 @@ class DatabaseDriver(object):
 
 
    #  TABLE CREATION
-    def create_boxes_table(self):
+   def create_boxes_table(self):
        """Create treasure_boxes table if it does not exist."""
        self.conn.execute("""
            CREATE TABLE IF NOT EXISTS treasure_boxes (
