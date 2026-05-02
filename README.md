@@ -69,3 +69,9 @@ TreasureBox turns group saving into a fun and transparent experience. Users can 
 - Confirm with Log Expense
 #### Screen:
 <img width="250" height="567" alt="IMG_8638" src="https://github.com/user-attachments/assets/e4879367-1a1c-42f3-a66e-70da031859aa" />
+
+## Tech Stack
+Framework: Flask
+Database: SQLite
+Server: Gunicorn (for deployment)
+Language: Python
